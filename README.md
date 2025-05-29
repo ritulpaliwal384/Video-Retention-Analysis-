@@ -21,6 +21,8 @@ To analyze how viewers engage with videos by measuring their retention at differ
 - Videos with engaging intros tend to have higher retention throughout the video.  
 - Retention steadily decreases, but drop-off slows down after 60 seconds for well-performing videos.
 
+
+
 ## Conclusion  
 Understanding video retention patterns helps creators optimize content to maintain viewer interest. This analysis can guide improvements in video length, structure, and early engagement strategies to maximize watch time.
 
