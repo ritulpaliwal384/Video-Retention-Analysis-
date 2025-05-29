@@ -30,5 +30,5 @@ Understanding video retention patterns helps creators optimize content to mainta
 - Python (Pandas, NumPy, Matplotlib) for data processing and visualization.
 
 - # Screenshots
-![Graph image](https://raw.githubusercontent.com/ritul/image-host/main/image.png)
+![Graph image](https://github.com/user-attachments/assets/16873668-6ab6-4593-b791-8007f8b35bc0)
 
